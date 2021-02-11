@@ -7,10 +7,6 @@ You can also encrypt the stored messages on your phone.
 
 We use GitHub for bug tracking. Please search the existing issues for your bug and create a new one if the issue is not yet tracked!
 
-## Contributing Translations
-
-Help us translate Signal! The translation effort happens on [Transifex](https://www.transifex.com/signalapp/signal-ios/).
-
 ## Contributing Code
 
 If you're new to the Kalam codebase, we recommend going through our issues and picking out a simple bug to fix (check the "easy" label in our issues) in order to get yourself familiar. Also please have a look at the CONTRIBUTING.md, that might answer some of your questions.
